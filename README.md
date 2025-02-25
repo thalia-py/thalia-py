@@ -3,7 +3,7 @@
 
 - 🎓 Sou formada em Ciência e Tecnologia e Engenharia de Produção pela UFERSA.
 
-- 🚀 Atualmente, estou no cursando pós-graduação em Engenharia de Produção.
+- 🚀 Atualmente, estou cursando pós-graduação em Engenharia de Produção.
 
 - 🌱 Estou aprendendo **Python e Machine Learning**
 
