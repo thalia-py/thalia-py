@@ -3,17 +3,17 @@
 
 - 🎓 Sou formada em Ciência e Tecnologia e Engenharia de Produção pela UFERSA.
 
-- 🚀 Atualmente, estou dando os primeiros passos na área da análise de dados, explorando o vasto universo de informações e descobrindo padrões intrigantes.
+- 🚀 Atualmente, estou no cursando pós-graduação em Engenharia de Produção.
 
 - 🌱 Estou aprendendo **Python e Machine Learning**
 
 - 💬 Me pergunte sobre **Power BI, ProModel, Excel e Python**
 
-- 💡 Meu objetivo é aprimorar minhas habilidades na área, transformando dados em insights valiosos. Estou sempre em busca de aprendizado contínuo e novos projetos desafiadores.
+- 💡 Meu objetivo é aprimorar minhas habilidades na área. Estou sempre em busca de aprendizado contínuo e novos projetos desafiadores.
 
-- 🌐 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada rumo à excelência na ciência de dados.
+- 🌐 Sinta-se à vontade para explorar meus repositórios.
 
-  <h1 align="center"> Seja bem-vindo(a) ao meu cantinho digital! 🚀
+  <h1 align="center"> Seja bem-vindo(a)! 🚀
 
 - 📫 Você me encontra através do e-mail **eu.thaalia@gmail.com**
 
