@@ -5,7 +5,7 @@
 
 - 🚀 Atualmente, estou cursando pós-graduação em Engenharia de Produção.
 
-- 🌱 Estou aprendendo **Python e Machine Learning**
+- 🌱 Estou aprendendo **Python**
 
 - 💬 Me pergunte sobre **Power BI, ProModel, Excel e Python**
 
