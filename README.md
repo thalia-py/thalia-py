@@ -1,25 +1,39 @@
-<h1 align="center">Oi 👋, Eu sou Thalia</h1>
-<h3 align="center">Sou apaixonada por desafios que envolvem dados.</h3>
+<h1 align="center">Olá 👋, eu sou a Thalia!</h1>
 
-- 🎓 Sou formada em Ciência e Tecnologia e Engenharia de Produção pela UFERSA.
+<h3 align="center">Pesquisadora | Doutoranda em Engenharia de Produção</h3>
 
-- 🚀 Atualmente, estou cursando pós-graduação em Engenharia de Produção.
+<p align="center">
+  Seja bem-vindo(a) ao meu espaço no GitHub! 🚀
+</p>
 
-- 🌱 Estou aprendendo **Python**
+---
 
-- 💬 Me pergunte sobre **Power BI, ProModel, Excel e Python**
+### 🎓 Sobre mim
 
-- 💡 Meu objetivo é aprimorar minhas habilidades na área. Estou sempre em busca de aprendizado contínuo e novos projetos desafiadores.
+- 🏛️ **Doutoranda** em Engenharia de Produção.
+- 📜 **Mestra** em Engenharia de Produção pela Universidade Federal de Pernambuco (UFPE).
+- 🔬 **Pesquisadora** atuante no **RANDOM** — *Grupo de Pesquisa em Risco e Análise de Decisão em Operações e Manutenção*.
+- 🎯 Meu trabalho e repositórios refletem o desenvolvimento de pesquisas, estudos e aplicações.
 
-- 🌐 Sinta-se à vontade para explorar meus repositórios.
+### 🌐 Redes, Contato e Publicações
 
-  <h1 align="center"> Seja bem-vindo(a)! 🚀
+Acompanhe minha produção acadêmica e trajetória profissional:
 
-- 📫 Você me encontra através do e-mail **eu.thaalia@gmail.com**
+- 📚 **Currículo Lattes:** [Acesse meu currículo](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1175470U8)
+- 🆔 **ORCID:** [0009-0001-1194-8206](https://orcid.org/0009-0001-1194-8206)
+- 📫 **E-mail:** [eu.thaalia@gmail.com](mailto:eu.thaalia@gmail.com)
 
-<h3 align="left">Ferramentas:</h3>
-<p align="left"> <a href="https:// www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+<h3 align="left">🛠️ Ferramentas que eu utilizo:</h3>
+<p align="left"> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
 <!---
 - 👋 Hi, I’m @thalia-py
 - 👀 I’m interested in ...
