@@ -24,6 +24,12 @@ Acompanhe minha produção acadêmica e trajetória profissional:
 - 📫 **E-mail:** [eu.thaalia@gmail.com](mailto:eu.thaalia@gmail.com)
 - 💼 **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/thalia-queiroz)
 
+<h3 align="left">🔬 Áreas de Interesse:</h3>
+
+<p align="left">
+  Pesquisa Operacional • Gestão da Manutenção • 
+  Análise de Dados • Modelagem e Otimização
+</p>
 ---
 
 <h3 align="left">💻 Linguagens:</h3>
