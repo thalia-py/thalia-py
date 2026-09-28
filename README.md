@@ -30,7 +30,8 @@ Acompanhe minha produção acadêmica e trajetória profissional:
   Pesquisa Operacional • Gestão da Manutenção • 
   Análise de Dados • Modelagem e Otimização
 </p>
----
+
+<hr>
 
 <h3 align="left">💻 Linguagens:</h3>
 <p align="left">
