@@ -22,6 +22,7 @@ Acompanhe minha produção acadêmica e trajetória profissional:
 - 📚 **Currículo Lattes:** [Acesse meu currículo](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1175470U8)
 - 🆔 **ORCID:** [0009-0001-1194-8206](https://orcid.org/0009-0001-1194-8206)
 - 📫 **E-mail:** [eu.thaalia@gmail.com](mailto:eu.thaalia@gmail.com)
+- 💼 **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/thalia-queiroz)
 
 ---
 
