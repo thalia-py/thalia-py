@@ -26,14 +26,53 @@ Acompanhe minha produção acadêmica e trajetória profissional:
 
 ---
 
-<h3 align="left">🛠️ Ferramentas que eu utilizo:</h3>
-<p align="left"> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+<h3 align="left">💻 Linguagens:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+         alt="matlab" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">🛠️ Ferramentas:</h3>
+<p align="left">
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg"
+         alt="streamlit" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+         alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         alt="github" width="40" height="40"/>
+  </a>
+
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
+         alt="jupyter" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">📚 Bibliotecas:</h3>
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+         alt="pandas" width="40" height="40"/>
+  </a>
+
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+         alt="matplotlib" width="40" height="40"/>
+  </a>
 </p>
 <!---
 - 👋 Hi, I’m @thalia-py
